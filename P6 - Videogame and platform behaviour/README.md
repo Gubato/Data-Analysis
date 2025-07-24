@@ -6,7 +6,7 @@
 
 ---
 
-## 🧰 Tecnologías y Herramientas Utilizadas
+## 🧰 Technology and tools used
 
 <ul>
   <li>🐍 <b>Python / Jupyter Notebook </b></li>
@@ -16,7 +16,7 @@
 
 ---
 
-## 📝 Resumen General del Proyecto
+## 📝 Overall insights of the project
 
 <ul>
   <li>🧽 <b>Data cleansing </b></li>
