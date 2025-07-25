@@ -12,7 +12,7 @@
   <li>🐍 <b>Python / Jupyter Notebook </b></li>
   <li>🐼 <b>Pandas, numpy, pyplot, stats</b></li>
   <li>💭 <b>Hypothesis testing</b></li>
-  <li>💭 <b>Cohort creation and cohort based metrics</b></li>
+  <li>👥 <b>Cohort creation and cohort based metrics</b></li>
 </ul>
 
 ---
@@ -21,7 +21,7 @@
 
 <ul>
   <li>🧽 <b>Data cleansing (identify incorrect data collection)</b></li>
-  <li>🧽 <b>EDA: User behaviour, frequent purchases, income... </b></li>
+  <li>🔎 <b>EDA: User behaviour, frequent purchases, income... </b></li>
   <li>📈 <b>Data visualization with pyplot</b></li>
   <li>📈 <b>Pivot tables</b></li>
 </ul>

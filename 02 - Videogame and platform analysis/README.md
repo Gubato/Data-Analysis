@@ -10,7 +10,7 @@
 
 <ul>
   <li>🐍 <b>Python / Jupyter Notebook </b></li>
-  <li>🐼 <b>Pandas, numpy, pyplot</b></li>
+  <li>🐼 <b>Pandas, numpy, pyplot, scipy, math</b></li>
   <li>💭 <b>Hypothesis testing</b></li>
 </ul>
 
