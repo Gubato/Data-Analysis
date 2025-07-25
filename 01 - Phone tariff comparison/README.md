@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Income analysis from different phone tariffs </h1>
 
 <p align="center">
-  🌟 Given 5 different datasets: "users" with user data, "calls" with calls data, "messages" with messages data, "internet" with mb consumption over time and "plans" with the description of each phone tariff. <br>
+  🌟 Given 5 different datasets: "users" with user data, "calls" with calls data, "messages" with messages data, "internet" with mb consumption over time and "plans" with the description of each phone tariff, determine which tariff generates more income and give solid reasoning behind that conclusion. <br>
 </p>
 
 ---
